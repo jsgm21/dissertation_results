@@ -5,6 +5,7 @@ These were the variables present in the data set used for traditional and time-d
 Some varaibles were calcualted or recalcualted from original UK-CRIS data sets. They will be identified with ** signs.
 
 bcr_id - unique, anonimysed patient identifier
+
 obsv_id** - unique identifier of each observation
 Date_Of_Birth - patient's date of birth 
 Gender_Value - patient's sex
